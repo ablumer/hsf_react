@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Arthur Dent",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Ford Prefect",
+        "text": "React is *great*!"
+    },
+    {
+        "id": 1454844508968,
+        "author": "Zaphod Beeblebrox",
+        "text": "Really wild things!"
+    },
+    {
+        "id": 1454865731840,
+        "author": "Tricia McMillan",
+        "text": "Really!"
+    },
+    {
+        "id": 1454866148479,
+        "author": "Slartibartfast",
+        "text": "Fjords!"
+    },
+    {
+        "id": 1454866265192,
+        "author": "Prostetnic Vogon Jeltz",
+        "text": "Resistance is useless."
+    },
+    {
+        "id": 1454866432351,
+        "author": "Marvin",
+        "text": "This will all end in tears."
+    },
+    {
+        "id": 1454867667294,
+        "author": "Humma Kavula",
+        "text": "Don't vote for stupid!"
+    },
+    {
+        "id": 1458997829466,
+        "author": "Tester McTester",
+        "text": "Testing 1, 2, 3"
+    }
+]
